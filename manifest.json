@@ -1,0 +1,35 @@
+{
+    "name": "VIVO \u2014 Digital Health Insurance",
+    "short_name": "VIVO",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#102A43",
+    "theme_color": "#007C91",
+    "description": "VIVO employee app prototype (demo data).",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
